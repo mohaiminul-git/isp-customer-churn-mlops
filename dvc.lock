@@ -90,12 +90,12 @@ stages:
     outs:
     - path: data/processed/X_test.csv
       hash: md5
-      md5: 949a251a5a134f8ecd212ceea636a3cd
-      size: 694240
+      md5: 5ea575567aa5ac62d7924d75c70bdf81
+      size: 694366
     - path: data/processed/X_train.csv
       hash: md5
-      md5: 02d83c0dc9c836efb6f88ede4f378fad
-      size: 2773341
+      md5: 91afa792285b3c51795311c9e872a063
+      size: 2773909
     - path: data/processed/y_test.csv
       hash: md5
       md5: d1a025169539f38910b1e8beb221f315
@@ -106,17 +106,17 @@ stages:
       size: 112206
     - path: models/model.pkl
       hash: md5
-      md5: c2b52b9735e51b50e8a2bfbf095792d6
-      size: 2846083
+      md5: 9fff8a19facc16bc2cb3305eb819396a
+      size: 2552241
     - path: reports/classification.txt
       hash: md5
-      md5: 2697e83d5574e4cf7cd8ae392b805601
+      md5: 79cf4e129882041c17fa2f8a8367b978
       size: 326
     - path: reports/figures/confusion_matrix.png
       hash: md5
-      md5: 83029214f7aef814e9a78534d1790825
-      size: 22705
+      md5: c93d0c450380b7ec6e4aa1ddadf476e9
+      size: 20492
     - path: reports/figures/optimize_graph.png
       hash: md5
-      md5: 8f929528db0e6f66c6e2e98969704769
-      size: 28551
+      md5: c67059b54112897f894b416c54b9794d
+      size: 23244
